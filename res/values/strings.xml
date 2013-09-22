@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="taptoCon">Tap to Continue...</string>
+    <string name="app_name">Poop Swoop</string>
+    <string name="level">Level 1	</string>
+     <string name="lives">Lives 3	</string>
+     <string name ="points">Points 0</string>
+</resources>

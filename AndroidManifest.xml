@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+	package="poopswoop.appdata" android:versionCode="5" android:versionName="1.2">
+	<application android:label="@string/app_name" android:theme="@android:style/Theme.NoTitleBar.Fullscreen" android:icon="@drawable/icon" >
+	<activity android:name="Ponder" android:screenOrientation="landscape">
+	<intent-filter>
+				<action android:name="android.intent.action.MAIN"></action>
+				<category android:name="android.intent.category.LAUNCHER"></category>
+			</intent-filter></activity>
+			<activity android:name="PoopSwoop" android:screenOrientation="landscape">
+</activity>
+		<activity android:name="TitleScreen" android:screenOrientation="landscape">
+			
+		</activity>
+		<activity android:name="Selection" android:screenOrientation="landscape">
+			 
+
+             
+		
+</activity>
+		
+	
+
+
+
+
+
+</application>
+	<uses-sdk android:minSdkVersion="1" />
+
+
+</manifest> 
